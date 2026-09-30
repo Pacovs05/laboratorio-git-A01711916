@@ -13,3 +13,9 @@ Soy una persona que tienen muchisimo interés en todo tipo de las tecnologías, 
 | **Excel**    | Experto              |
 | **Python**   | Intermedio           |
 | **Power BI** | Experto              |
+
+
+- Qué parte de la práctica te resultó más confusa y cómo la resolviste?
+La parte en equipo y las actualizaciones ya que hay gente que se queda más atrás y generea un poco de retraso
+- ¿Cómo crees que tu equipo usará el repositorio durante las etapas de UX y UI?
+Nos servirá bastante para que todos tengamos un control de actualizaciones en documentos y archivos para tener un mejor control
