@@ -14,7 +14,7 @@ Soy una persona que tienen muchisimo interés en todo tipo de las tecnologías, 
 | **Python**   | Intermedio           |
 | **Power BI** | Experto              |
 
-
+### REFLEXIÓN
 - Qué parte de la práctica te resultó más confusa y cómo la resolviste?
 La parte en equipo y las actualizaciones ya que hay gente que se queda más atrás y generea un poco de retraso
 - ¿Cómo crees que tu equipo usará el repositorio durante las etapas de UX y UI?
